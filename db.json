@@ -53,16 +53,24 @@
       "id": 1,
       "fishId": 1,
       "location": {
-        "lat": -73,
-        "lng": 121
+       "lat": 28.4659,
+      "lng": 77.30049833333334
       }
     },
     {
       "id": 2,
-      "fishId": 1,
+      "fishId": 2,
       "location": {
-        "lat": -72,
-        "lng": 121
+        "lat": 17.4483,
+        "lng": 78.3915
+      }
+    },
+    {
+      "id": 3,
+      "fishId": 3,
+      "location": {
+        "lat": 17.4483,
+        "lng": 78.3915
       }
     }
   ]
